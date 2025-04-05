@@ -7,7 +7,7 @@
         "MF": "Coilmaster Electronics"
       },
       "MID": "MID20264",
-      "MD": "SDR75-101K-LF is SMD power inductor with inductance of 100uH & Max. current rated of 720mA (0.72A) || Design Ref: L4 || Required MIDs: MID20263",
+      "MD": "SDR75-101K-LF is SMD power inductor with inductance of 100uH & Max. current rated of 720mA (0.72A) || Design Ref: L4 || Required MIDs: MID20263 (U45)",
       "MT": "Electronic Comp.",
       "MQNT": 11,
       "MQATG": "#CLASS1",
